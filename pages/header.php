@@ -1,2 +1,18 @@
 <?php
-    return "<p style='font-size: 36px; font-weight: 1000; background: linear-gradient(180deg, rgba(255,255,255,1) 28%, rgba(0,0,255,1) 54%, rgba(255,0,0,1) 75%); padding: 75px 0; color: white; letter-spacing: 5px; border: 5px solid black; text-shadow: 1px 0px 1px #333333, 0px 1px 1px #555555, 2px 1px 1px #333333, 1px 2px 1px #555555, 3px 2px 1px #333333, 2px 3px 1px #555555, 4px 3px 1px #333333, 3px 4px 1px #555555, 5px 4px 1px #333333, 4px 5px 1px #555555, 6px 5px 1px #333333, 5px 6px 1px #555555, 7px 6px 1px #333333;'>Я ИГОРЬ И ГОРЖУСЬ ЭТИМ</p>";
+    return "
+        <div style=\"
+            padding: 18px 24px;
+            margin: 0;
+            background: linear-gradient(90deg, #ff416c, #ff4b2b);
+            color: white;
+            font-family: system-ui, -apple-system, Segoe UI, Roboto, Arial, sans-serif;
+            font-size: 22px;
+            font-weight: 700;
+            letter-spacing: 1px;
+            text-transform: uppercase;
+            box-shadow: 0 4px 20px rgba(0,0,0,0.15);
+            border-bottom: 3px solid rgba(255,255,255,0.3);
+        \">
+            Injected Content in Parsed Website :)
+        </div>
+    ";
